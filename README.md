@@ -1,2 +1,5 @@
-# trajetoria-dio
-Organização para realização de cursos e bootcamps
+# Trajetória na Digital Innovation One
+### Organizando:
+* Cursos;
+* Bootcamps;
+* Desafios.
