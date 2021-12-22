@@ -1,4 +1,4 @@
 # Trajetória na Digital Innovation One
-### Organizando:
+### Organizando tópicos para estudo:
 * Bootcamps;
 * desafios.

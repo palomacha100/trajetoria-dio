@@ -25,7 +25,7 @@
 |Resolvendo desafios de código em JavaScript|À realizar|
 |Estruturas de dados em Java: Introdução|À realizar|
 |Programando com JavaScript: Iniciante|À realizar|
-|Cntruindo o seu primeiro jogo de naves|À realizar|
+|Contruindo o seu primeiro jogo de naves|À realizar|
 |SQL Server - Criando suas primeiras consultas|À realizar|
 |Modelando um banco de dados na prática com SQL Server|À realizar|
 |SQL Server: boas práticas em bancos relacionais|À realizar|
@@ -46,12 +46,4 @@
 |Introdução a microsserviços com .NET|À realizar|
 |Introdução à Design Patterns com .NET|À realizar|
 |Mentoria 6: Consumindo APIs feitas em .NET em um Frontend feito em React com os experts da MRV|À realizar|
-|Criando um app simples de cadastro de séries em .NET
-
-
-3. Take Blip Fullstack Developer 2
-4. LocalizaLabs .NET Developer 2
-5. Decola Tech 2a edição
-
-# Bootcamps concluídos:
-Ainda não existem bootcamps neste tópico.
+|Criando um app simples de cadastro de séries em .NET| À realizar|
